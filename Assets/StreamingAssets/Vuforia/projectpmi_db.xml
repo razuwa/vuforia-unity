@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="prab" size="1.000000 0.904762" />
+    <ImageTarget name="prabow" size="1.000000 1.224185" />
+    <ImageTarget name="ilove__" size="1.000000 0.896739" />
+  </Tracking>
+</QCARConfig>
